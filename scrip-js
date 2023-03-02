@@ -1,0 +1,5 @@
+
+function carta (){
+    document.write ("Brian Jonson Tecnology Tec cel:1555544430")
+
+}
